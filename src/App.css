@@ -1,0 +1,135 @@
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fade-in 0.5s ease-in-out;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;   /* stack vertically */
+  align-items: center;      /* center horizontally */
+  justify-content: center;  /* center vertically */
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #eef2ff, #ffffff, #f3e8ff);
+  font-family: Arial, sans-serif;
+}
+
+/* Main content centered */
+.main-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.content-wrapper {
+  width: 100%;
+  max-width: 1100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Heading */
+.heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 32px;
+}
+
+/* Country Selector */
+.selector-wrapper {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* Grid layout for cards */
+.card-grid {
+  display: flex;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  justify-items: center; /* ✅ centers each card in its cell */
+  align-items: start;    /* keeps both cards aligned at the top */
+}
+
+@media (min-width: 768px) {
+  .card-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Card styles */
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 400px; /* ✅ prevents one card from stretching too wide */
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  z-index: 1;
+}
+.languages-card {
+  margin-top: 40px;   /* increase spacing */
+  max-width: 100%;
+  padding: 25px;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  z-index: 1;
+}
+
+.card:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.card-title.blue {
+  color: #2563eb;
+}
+
+.card-title.green {
+  color: #16a34a;
+}
+
+.card-title.purple {
+  color: #9333ea;
+}
+
+/* Converter card */
+.converter-card {
+  margin-top: 48px;
+  background: white;
+  padding: 32px;
+  border-radius: 20px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+  border: 1px solid #e5e7eb;
+  width: 100%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1;
+}

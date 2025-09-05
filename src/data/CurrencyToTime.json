@@ -1,0 +1,337 @@
+{
+  "United States": { 
+    "currency": "USD", 
+    "timezone": "America/New_York",
+    "languages": ["English", "Spanish"]
+  },
+  "Eurozone (Germany)": { 
+    "currency": "EUR", 
+    "timezone": "Europe/Berlin",
+    "languages": ["German"]
+  },
+  "United Kingdom": { 
+    "currency": "GBP", 
+    "timezone": "Europe/London",
+    "languages": ["English"]
+  },
+  "India": { 
+    "currency": "INR", 
+    "timezone": "Asia/Kolkata",
+    "languages": ["Hindi", "English", "Bengali", "Tamil", "Telugu"]
+  },
+  "Japan": { 
+    "currency": "JPY", 
+    "timezone": "Asia/Tokyo",
+    "languages": ["Japanese"]
+  },
+  "Australia": { 
+    "currency": "AUD", 
+    "timezone": "Australia/Sydney",
+    "languages": ["English"]
+  },
+  "Canada": { 
+    "currency": "CAD", 
+    "timezone": "America/Toronto",
+    "languages": ["English", "French"]
+  },
+  "Switzerland": { 
+    "currency": "CHF", 
+    "timezone": "Europe/Zurich",
+    "languages": ["German", "French", "Italian", "Romansh"]
+  },
+  "China": { 
+    "currency": "CNY", 
+    "timezone": "Asia/Shanghai",
+    "languages": ["Mandarin Chinese"]
+  },
+  "Hong Kong": { 
+    "currency": "HKD", 
+    "timezone": "Asia/Hong_Kong",
+    "languages": ["Cantonese", "English"]
+  },
+  "Singapore": { 
+    "currency": "SGD", 
+    "timezone": "Asia/Singapore",
+    "languages": ["English", "Mandarin", "Malay", "Tamil"]
+  },
+  "New Zealand": { 
+    "currency": "NZD", 
+    "timezone": "Pacific/Auckland",
+    "languages": ["English", "Māori"]
+  },
+  "South Africa": { 
+    "currency": "ZAR", 
+    "timezone": "Africa/Johannesburg",
+    "languages": ["Zulu", "Xhosa", "Afrikaans", "English", "Sesotho"]
+  },
+  "Brazil": { 
+    "currency": "BRL", 
+    "timezone": "America/Sao_Paulo",
+    "languages": ["Portuguese"]
+  },
+  "Russia": { 
+    "currency": "RUB", 
+    "timezone": "Europe/Moscow",
+    "languages": ["Russian"]
+  },
+  "South Korea": { 
+    "currency": "KRW", 
+    "timezone": "Asia/Seoul",
+    "languages": ["Korean"]
+  },
+  "Mexico": { 
+    "currency": "MXN", 
+    "timezone": "America/Mexico_City",
+    "languages": ["Spanish"]
+  },
+  "Sweden": { 
+    "currency": "SEK", 
+    "timezone": "Europe/Stockholm",
+    "languages": ["Swedish"]
+  },
+  "Norway": { 
+    "currency": "NOK", 
+    "timezone": "Europe/Oslo",
+    "languages": ["Norwegian Bokmål", "Norwegian Nynorsk", "Sami"]
+  },
+  "Denmark": { 
+    "currency": "DKK", 
+    "timezone": "Europe/Copenhagen",
+    "languages": ["Danish"]
+  },
+  "Turkey": { 
+    "currency": "TRY", 
+    "timezone": "Europe/Istanbul",
+    "languages": ["Turkish"]
+  },
+  "United Arab Emirates": { 
+    "currency": "AED", 
+    "timezone": "Asia/Dubai",
+    "languages": ["Arabic", "English"]
+  },
+  "Saudi Arabia": { 
+    "currency": "SAR", 
+    "timezone": "Asia/Riyadh",
+    "languages": ["Arabic"]
+  },
+  "Egypt": { 
+    "currency": "EGP", 
+    "timezone": "Africa/Cairo",
+    "languages": ["Arabic"]
+  },
+  "Thailand": { 
+    "currency": "THB", 
+    "timezone": "Asia/Bangkok",
+    "languages": ["Thai"]
+  },
+  "Malaysia": { 
+    "currency": "MYR", 
+    "timezone": "Asia/Kuala_Lumpur",
+    "languages": ["Malay", "English", "Chinese", "Tamil"]
+  },
+  "Indonesia": { 
+    "currency": "IDR", 
+    "timezone": "Asia/Jakarta",
+    "languages": ["Indonesian"]
+  },
+  "Vietnam": { 
+    "currency": "VND", 
+    "timezone": "Asia/Ho_Chi_Minh",
+    "languages": ["Vietnamese"]
+  },
+  "Pakistan": { 
+    "currency": "PKR", 
+    "timezone": "Asia/Karachi",
+    "languages": ["Urdu", "English", "Punjabi", "Sindhi", "Pashto", "Balochi"]
+  },
+  "Bangladesh": { 
+    "currency": "BDT", 
+    "timezone": "Asia/Dhaka",
+    "languages": ["Bengali"]
+  },
+  "Sri Lanka": { 
+    "currency": "LKR", 
+    "timezone": "Asia/Colombo",
+    "languages": ["Sinhala", "Tamil"]
+  },
+  "Nigeria": { 
+    "currency": "NGN", 
+    "timezone": "Africa/Lagos",
+    "languages": ["English", "Hausa", "Yoruba", "Igbo"]
+  },
+  "Kenya": { 
+    "currency": "KES", 
+    "timezone": "Africa/Nairobi",
+    "languages": ["English", "Swahili"]
+  },
+  "Ghana": { 
+    "currency": "GHS", 
+    "timezone": "Africa/Accra",
+    "languages": ["English", "Akan"]
+  },
+  "Morocco": { 
+    "currency": "MAD", 
+    "timezone": "Africa/Casablanca",
+    "languages": ["Arabic", "Berber", "French"]
+  },
+  "Tunisia": { 
+    "currency": "TND", 
+    "timezone": "Africa/Tunis",
+    "languages": ["Arabic", "French"]
+  },
+  "Argentina": { 
+    "currency": "ARS", 
+    "timezone": "America/Argentina/Buenos_Aires",
+    "languages": ["Spanish"]
+  },
+  "Chile": { 
+    "currency": "CLP", 
+    "timezone": "America/Santiago",
+    "languages": ["Spanish"]
+  },
+  "Colombia": { 
+    "currency": "COP", 
+    "timezone": "America/Bogota",
+    "languages": ["Spanish"]
+  },
+  "Peru": { 
+    "currency": "PEN", 
+    "timezone": "America/Lima",
+    "languages": ["Spanish", "Quechua"]
+  },
+  "Uruguay": { 
+    "currency": "UYU", 
+    "timezone": "America/Montevideo",
+    "languages": ["Spanish"]
+  },
+  "Poland": { 
+    "currency": "PLN", 
+    "timezone": "Europe/Warsaw",
+    "languages": ["Polish"]
+  },
+  "Hungary": { 
+    "currency": "HUF", 
+    "timezone": "Europe/Budapest",
+    "languages": ["Hungarian"]
+  },
+  "Czech Republic": { 
+    "currency": "CZK", 
+    "timezone": "Europe/Prague",
+    "languages": ["Czech"]
+  },
+  "Romania": { 
+    "currency": "RON", 
+    "timezone": "Europe/Bucharest",
+    "languages": ["Romanian"]
+  },
+  "Croatia": { 
+    "currency": "HRK", 
+    "timezone": "Europe/Zagreb",
+    "languages": ["Croatian"]
+  },
+  "Bulgaria": { 
+    "currency": "BGN", 
+    "timezone": "Europe/Sofia",
+    "languages": ["Bulgarian"]
+  },
+  "Iceland": { 
+    "currency": "ISK", 
+    "timezone": "Atlantic/Reykjavik",
+    "languages": ["Icelandic"]
+  },
+  "Georgia": { 
+    "currency": "GEL", 
+    "timezone": "Asia/Tbilisi",
+    "languages": ["Georgian"]
+  },
+  "Ukraine": { 
+    "currency": "UAH", 
+    "timezone": "Europe/Kyiv",
+    "languages": ["Ukrainian"]
+  },
+  "Israel": { 
+    "currency": "ILS", 
+    "timezone": "Asia/Jerusalem",
+    "languages": ["Hebrew", "Arabic"]
+  },
+  "Kuwait": { 
+    "currency": "KWD", 
+    "timezone": "Asia/Kuwait",
+    "languages": ["Arabic"]
+  },
+  "Qatar": { 
+    "currency": "QAR", 
+    "timezone": "Asia/Qatar",
+    "languages": ["Arabic", "English"]
+  },
+  "Bahrain": { 
+    "currency": "BHD", 
+    "timezone": "Asia/Bahrain",
+    "languages": ["Arabic", "English"]
+  },
+  "Oman": { 
+    "currency": "OMR", 
+    "timezone": "Asia/Muscat",
+    "languages": ["Arabic"]
+  },
+  "Taiwan": { 
+    "currency": "TWD", 
+    "timezone": "Asia/Taipei",
+    "languages": ["Mandarin Chinese"]
+  },
+  "Philippines": { 
+    "currency": "PHP", 
+    "timezone": "Asia/Manila",
+    "languages": ["Filipino", "English"]
+  },
+  "West Africa": { 
+    "currency": "XOF", 
+    "timezone": "Africa/Abidjan",
+    "languages": ["French", "Local African languages"]
+  },
+  "Central Africa": { 
+    "currency": "XAF", 
+    "timezone": "Africa/Douala",
+    "languages": ["French", "Local African languages"]
+  },
+  "Mauritius": { 
+    "currency": "MUR", 
+    "timezone": "Indian/Mauritius",
+    "languages": ["English", "French", "Creole"]
+  },
+  "Seychelles": { 
+    "currency": "SCR", 
+    "timezone": "Indian/Mahe",
+    "languages": ["Seychellois Creole", "English", "French"]
+  },
+  "Maldives": { 
+    "currency": "MVR", 
+    "timezone": "Indian/Maldives",
+    "languages": ["Dhivehi"]
+  },
+  "Fiji": { 
+    "currency": "FJD", 
+    "timezone": "Pacific/Fiji",
+    "languages": ["English", "Fijian", "Hindi"]
+  },
+  "Samoa": { 
+    "currency": "WST", 
+    "timezone": "Pacific/Apia",
+    "languages": ["Samoan", "English"]
+  },
+  "Tonga": { 
+    "currency": "TOP", 
+    "timezone": "Pacific/Tongatapu",
+    "languages": ["Tongan", "English"]
+  },
+  "Papua New Guinea": { 
+    "currency": "PGK", 
+    "timezone": "Pacific/Port_Moresby",
+    "languages": ["English", "Tok Pisin", "Hiri Motu"]
+  },
+  "Vanuatu": { 
+    "currency": "VUV", 
+    "timezone": "Pacific/Efate",
+    "languages": ["Bislama", "English", "French"]
+  }
+}

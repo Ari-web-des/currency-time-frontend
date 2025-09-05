@@ -1,0 +1,29 @@
+.languages-list {
+  list-style: none;
+  max-width: auto;
+  padding: 0;
+  margin: 0;
+  display: flex;              /* make it flexible */
+  flex-direction: column;     /* stack vertically */
+  gap: 8px;                   /* spacing between items */
+}
+
+.languages-list li {
+  background: #f3f4f6;        /* light gray background */
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-weight: 500;
+  color: #1f2937;             /* gray-800 */
+  transition: all 0.2s ease;
+}
+
+.languages-list li:hover {
+  background: #e5e7eb;        /* slightly darker on hover */
+  transform: translateY(-2px);
+}
+
+.card-title.orange {
+  color: #f97316;             /* orange heading */
+  margin-bottom: 10px;
+}
+
